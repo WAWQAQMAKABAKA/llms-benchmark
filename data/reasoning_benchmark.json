@@ -1,0 +1,202 @@
+[
+  {
+    "question": "If all dogs are mammals and some mammals are pets, are all dogs pets?",
+    "answer": "No, not all dogs are necessarily pets."
+  },
+  {
+    "question": "If A is greater than B and B is greater than C, who is the smallest?",
+    "answer": "C is the smallest."
+  },
+  {
+    "question": "If the store opens at 9 AM and it is now 8:30 AM, is the store open?",
+    "answer": "No, the store is not open yet."
+  },
+  {
+    "question": "If an object is heavier than water, will it float?",
+    "answer": "No, it will sink."
+  },
+  {
+    "question": "If no apples are blue and this fruit is blue, is it an apple?",
+    "answer": "No, it cannot be an apple."
+  },
+  {
+    "question": "If Sarah runs faster than Tom and Tom runs faster than Emma, who is the slowest?",
+    "answer": "Emma is the slowest."
+  },
+  {
+    "question": "If today is Wednesday, what day will it be in 3 days?",
+    "answer": "It will be Saturday."
+  },
+  {
+    "question": "All cars have wheels. A bicycle has wheels. Is a bicycle a car?",
+    "answer": "No, a bicycle is not a car."
+  },
+  {
+    "question": "If water freezes at 0°C, will it be ice at -5°C?",
+    "answer": "Yes, it will be ice at -5°C."
+  },
+  {
+    "question": "If you remove 2 apples from a basket of 5, how many are left?",
+    "answer": "There are 3 apples left."
+  },
+  {
+    "question": "If a train travels 60 miles in 1 hour, how far will it go in 3 hours?",
+    "answer": "It will go 180 miles."
+  },
+  {
+    "question": "If all humans need oxygen to survive, and John is a human, does he need oxygen?",
+    "answer": "Yes, John needs oxygen."
+  },
+  {
+    "question": "If a bird can fly and a penguin is a bird, can a penguin fly?",
+    "answer": "No, a penguin cannot fly."
+  },
+  {
+    "question": "If 10 is greater than 7, and 7 is greater than 3, is 10 greater than 3?",
+    "answer": "Yes, 10 is greater than 3."
+  },
+  {
+    "question": "If a shape has 3 sides, what is it called?",
+    "answer": "It is called a triangle."
+  },
+  {
+    "question": "If some mammals lay eggs, is it true that all mammals lay eggs?",
+    "answer": "No, not all mammals lay eggs."
+  },
+  {
+    "question": "If it is not raining, can we say the ground is wet?",
+    "answer": "Not necessarily, it depends on other conditions."
+  },
+  {
+    "question": "If the sun rises in the east, which direction is opposite?",
+    "answer": "The opposite direction is west."
+  },
+  {
+    "question": "If every A is B and every B is C, is every A also C?",
+    "answer": "Yes, every A is also C."
+  },
+  {
+    "question": "If you double 4 and add 2, what do you get?",
+    "answer": "You get 10."
+  },
+  {
+    "question": "If no cats are dogs and all dogs bark, do cats bark?",
+    "answer": "No, cats do not bark."
+  },
+  {
+    "question": "If a square has equal sides, how many sides does it have?",
+    "answer": "It has 4 sides."
+  },
+  {
+    "question": "If you walk 2 miles east and 2 miles west, where are you?",
+    "answer": "You are back where you started."
+  },
+  {
+    "question": "If batteries power flashlights and the flashlight is on, does it have batteries?",
+    "answer": "Yes, the flashlight has batteries."
+  },
+  {
+    "question": "If it’s 9 PM now, what time will it be in 5 hours?",
+    "answer": "It will be 2 AM."
+  },
+  {
+    "question": "If Monday is the 1st, what day is the 4th?",
+    "answer": "The 4th is Thursday."
+  },
+  {
+    "question": "If all bachelors are unmarried, is a married man a bachelor?",
+    "answer": "No, a married man is not a bachelor."
+  },
+  {
+    "question": "If the opposite of black is white, what is the opposite of cold?",
+    "answer": "The opposite of cold is hot."
+  },
+  {
+    "question": "If Tim is twice as old as Jim, and Jim is 10, how old is Tim?",
+    "answer": "Tim is 20 years old."
+  },
+  {
+    "question": "If a pencil is longer than a pen, and a marker is shorter than the pen, what is the longest?",
+    "answer": "The pencil is the longest."
+  },
+  {
+    "question": "If the temperature drops below freezing, will water turn to ice?",
+    "answer": "Yes, water will turn to ice."
+  },
+  {
+    "question": "If 5 is an odd number, is 6 an odd number?",
+    "answer": "No, 6 is an even number."
+  },
+  {
+    "question": "If you mix red and yellow, what color do you get?",
+    "answer": "You get orange."
+  },
+  {
+    "question": "If all roses are flowers, are all flowers roses?",
+    "answer": "No, not all flowers are roses."
+  },
+  {
+    "question": "If 12 is divisible by 3, is 3 divisible by 12?",
+    "answer": "No, 3 is not divisible by 12."
+  },
+  {
+    "question": "If you sleep for 8 hours starting at 10 PM, what time do you wake up?",
+    "answer": "You wake up at 6 AM."
+  },
+  {
+    "question": "If a triangle has angles of 90° and 45°, what is the third angle?",
+    "answer": "The third angle is 45°."
+  },
+  {
+    "question": "If 0 is less than 1, is -1 less than 0?",
+    "answer": "Yes, -1 is less than 0."
+  },
+  {
+    "question": "If a = b and b = c, is a = c?",
+    "answer": "Yes, a equals c."
+  },
+  {
+    "question": "If a light is off, can it be considered on?",
+    "answer": "No, if a light is off, it cannot be considered on."
+  },
+  {
+    "question": "If you have five coins and give away two, how many do you have left?",
+    "answer": "You have 3 coins left."
+  },
+  {
+    "question": "If 2 + 2 = 4, what does 4 + 4 equal?",
+    "answer": "4 + 4 equals 8."
+  },
+  {
+    "question": "If someone is always lying, can you trust what they say?",
+    "answer": "No, you cannot trust what they say."
+  },
+  {
+    "question": "If cars need fuel to run, can a car run without fuel?",
+    "answer": "No, a car cannot run without fuel."
+  },
+  {
+    "question": "If all birds have feathers, do all feathered creatures have to be birds?",
+    "answer": "No, not all feathered creatures have to be birds."
+  },
+  {
+    "question": "If ice melts at 0°C, is it solid at -2°C?",
+    "answer": "Yes, it is solid at -2°C."
+  },
+  {
+    "question": "If a week has 7 days, how many days are in 2 weeks?",
+    "answer": "There are 14 days in 2 weeks."
+  },
+  {
+    "question": "If you multiply any number by 0, what is the result?",
+    "answer": "The result is 0."
+  },
+  {
+    "question": "If triangles have 3 sides, do they have 4 corners?",
+    "answer": "No, triangles have 3 corners."
+  },
+  {
+    "question": "If some animals are reptiles and all reptiles lay eggs, do some animals lay eggs?",
+    "answer": "Yes, some animals lay eggs."
+  }
+]
